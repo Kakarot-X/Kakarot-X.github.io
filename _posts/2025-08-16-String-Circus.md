@@ -1,8 +1,8 @@
 ---
 title: String Circus
 date: 2025-08-16 00:00:00 +0530
-categories: [C]
-tags: [C]
+categories: [programming]
+tags: [programming,C]
 mermaid: true
 ---
 
