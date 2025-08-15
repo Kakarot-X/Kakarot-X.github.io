@@ -55,6 +55,8 @@ webmaster_verifications:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
+markdown: kramdown
+highlighter: rouge
 
 # Web Analytics Settings
 analytics:
